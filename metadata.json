@@ -1,0 +1,6 @@
+{
+  "name": "Trivia App",
+  "description": "An AI-powered visual quiz game with 100 levels where players guess blurred images by answering questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
